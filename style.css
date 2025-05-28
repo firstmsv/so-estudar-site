@@ -1,4 +1,5 @@
 /* Reset básico e estilos globais */
+
 * {
   margin: 0;
   padding: 0;
@@ -109,16 +110,6 @@ nav ul li a:hover {
 
 .whatsapp:hover {
   background-color: #1ebe5b;
-}
-
-/* Ícones */
-.diferenciais ul li::before {
-  content: "\f00c";
-  font-family: "Font Awesome 5 Free";
-  font-weight: 900;
-  position: absolute;
-  left: 0;
-  color: #25d366;
 }
 
 /* Carrossel */
