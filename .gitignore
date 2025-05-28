@@ -1,0 +1,10 @@
+# Ignorar arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Node.js (caso utilize no futuro)
+node_modules/
+dist/

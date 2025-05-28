@@ -1,66 +1,83 @@
-# 📘 Site "Só Estudar – Aulas Particulares"
+# 📘 Só Estudar – Aulas Particulares
 
 ![Logo Só Estudar](imagem/logo.jpg)
 
-Versão: 1.0
-Última atualização: Junho 2024
-Desenvolvedor: Marcelo Vitória
-Licença: MIT
+**Versão:** 1.0  
+**Última atualização:** Junho 2024  
+**Desenvolvedor:** Marcelo Vitória  
+**Licença:** [MIT](LICENSE)
 
 ---
 
-🌐 Visão Geral
-O Só Estudar é uma plataforma educacional que oferece aulas particulares personalizadas, com metodologia adaptada para cada aluno. Este projeto consiste no site institucional da plataforma, desenvolvido com HTML5, CSS3 e JavaScript.
+## 🌐 Visão Geral
+
+**Só Estudar** é uma plataforma educacional voltada para oferecer **aulas particulares personalizadas**, com metodologia adaptada ao ritmo de aprendizado de cada aluno.
+
+Este repositório contém o **site institucional da plataforma**, desenvolvido utilizando **HTML5, CSS3 e JavaScript**.
+
+---
 
 ## 📁 Estrutura do Projeto
 
-.
 ├── index.html # Página inicial
 ├── quem-somos.html # Sobre nós
 ├── servicos.html # Nossos serviços
-├── depoimentos.html # Depoimentos
-├── contato.html # Contato
-├── aulas.html # Vídeo aulas
-├── style.css # Estilos
-├── script.js # Interatividade
-└── imagens/ # Arquivos de imagem
+├── depoimentos.html # Depoimentos de alunos
+├── contato.html # Formulário de contato
+├── aulas.html # Acesso às vídeo aulas
+├── style.css # Estilos visuais
+├── script.js # Lógica de interatividade
+├── imagem/ # Imagens e favicon
+└── README.md # Documentação do projeto
 
 ---
 
-🛠 Tecnologias Utilizadas
-Frontend:
-HTML5
-CSS3
-JavaScript
+## 🛠 Tecnologias Utilizadas
 
-Bibliotecas:
-Font Awesome
+**Frontend:**
 
-Hospedagem:
-GitHub Pages
+- HTML5
+- CSS3
+- JavaScript
 
+**Bibliotecas:**
 
-Recursos:
+- [Font Awesome](https://fontawesome.com/)
 
-  Design responsivo
+**Hospedagem:**
 
-  Carrossel de vídeos interativo
+- [GitHub Pages](https://pages.github.com/)
 
-  Integração com WhatsApp
+---
 
-  Ícones do Font Awesome
+## 💡 Funcionalidades
 
+- ✅ Design responsivo para celulares e computadores
+- ✅ Carrossel de vídeos interativo
+- ✅ Integração com WhatsApp
+- ✅ Ícones personalizados com Font Awesome
+- ✅ Favicon personalizado para a aba do navegador
+- ✅ SEO básico (meta description, keywords)
 
-Contato:
+---
 
-   Marcelo Vitória
-📧 contato@soestudar.com
-📱 (27) 99914-7200
-🔗 Site oficial
+## 🚀 Deploy no GitHub Pages
 
-Esta versão mantém o essencial:
+1. Acesse as configurações do seu repositório.
+2. Vá até **"Pages"** no menu lateral.
+3. Em **"Source"**, selecione a branch principal (geralmente `main`) e a pasta `/root` (ou `/docs` se usar outra estrutura).
+4. O link do site será exibido. Exemplo:  
+   ➡️ `https://seunomeusuario.github.io/so-estudar/`
 
-- Instruções básicas de deploy
-- Estrutura do projeto
-- Principais funcionalidades
-- Informações de contato
+---
+
+## 📞 Contato
+
+**Marcelo Vitória**  
+📧 contato@soestudar.com  
+📱 (27) 99914-7200  
+🔗 [Site oficial (em construção)](#)
+
+---
+
+> Este projeto é open-source sob a licença MIT. Fique à vontade para contribuir ou adaptar conforme suas necessidades.
