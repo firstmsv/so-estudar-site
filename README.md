@@ -61,12 +61,7 @@ Este repositório contém o **site institucional da plataforma**, desenvolvido u
 
 ---
 
-## 🚀 Deploy no GitHub Pages
-
-1. Acesse as configurações do seu repositório.
-2. Vá até **"Pages"** no menu lateral.
-3. Em **"Source"**, selecione a branch principal (geralmente `main`) e a pasta `/root` (ou `/docs` se usar outra estrutura).
-4. O link do site será exibido. Exemplo:  
+## O link do site exibido:  
    ➡️ `https://firstmsv.github.io/so-estudar/`
 
 ---
